@@ -1,6 +1,6 @@
 - 👋 Olá, Menu nome João Henrique - @JoaoHenrique60
 - 👀 Eu tenho interesse em tecnologias moveis como android e IOS e tecnologias web.
-- 🌱 Estou estudando um pouco dart, flutter e inglês.
+- 🌱 Estou estudando inglês.
 - 💞️ Atualmente não estou colaborando em nenhum projeto, focado em coisas pessoais.
 - 📫 Você pode me encontrar no :
       linkedin: linkedin.com/in/joão-henrique-95063012a
