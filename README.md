@@ -1,5 +1,5 @@
 - 👋 Olá, Menu nome João Henrique - @JoaoHenrique60
-- 👀 Eu tenho interesse em tecnologias moveis como android e IOS e tecnologias web.
+- 👀 Eu venho estudando java há um tempo e tenho interesse em técnologias moveis.
 - 🌱 Estou estudando inglês.
 - 💞️ Atualmente não estou colaborando em nenhum projeto, focado em coisas pessoais.
 - 📫 Você pode me encontrar no :
