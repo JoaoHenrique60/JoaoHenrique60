@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome João Henrique - @JoaoHenrique60
+- 👋 Olá, meu nome é João Henrique - @JoaoHenrique60
 - 👀 Eu venho estudando java há um tempo e tenho interesse em tecnologias para dispositivos móveis.
 - 🌱 Dei uma pausa no curso de inglês e estou me aprimorando em java e spring, pretendo estudar dart e flutter.
 - 💞️ Atualmente trabalho no grupo moura onde venho dando manutenção em uma aplicação web feita em java usando o framework spring.
